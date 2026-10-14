@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Pantry List Screen"
+rootProject.name = "402410700_Assignment"
 include(":app")
  
