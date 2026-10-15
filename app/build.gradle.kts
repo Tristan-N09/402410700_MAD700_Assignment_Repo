@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.TristanNadarMADAssignment"
+    namespace = "com.example.tristannadarmadassignment"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.TristanNadarMADAssignment"
+        applicationId = "com.example.tristannadarmadassignment"
         minSdk = 28
         targetSdk = 37
         versionCode = 1
