@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.tristannadarmadassignment"
+    namespace = "com.example.pantrylistscreen"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.tristannadarmadassignment"
+        applicationId = "com.example.pantrylistscreen"
         minSdk = 28
         targetSdk = 37
         versionCode = 1

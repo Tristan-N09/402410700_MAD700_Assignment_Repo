@@ -22,5 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TristanNadarMADAssignment"
+rootProject.name = "402410700_Assignment"
 include(":app")
+ 
