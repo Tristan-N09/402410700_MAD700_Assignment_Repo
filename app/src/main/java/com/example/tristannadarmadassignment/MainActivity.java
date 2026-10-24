@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
         updateTitle(navId);   // use the tapped item's id: the bar marks it selected only after this callback
         getSupportFragmentManager()
                 .beginTransaction()
-                .replace(R.id.main, fragment)
+                .replace(R.id.fragment_container, fragment)
                 .commit();
     }
 
